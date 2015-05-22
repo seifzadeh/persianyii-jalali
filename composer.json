@@ -1,8 +1,8 @@
 {
-    "name": "persianyii/Jalali",
+    "name": "persianyii/jalali",
     "description": "jalali callendar for yii2",
     "type": "yii2-extension",
-    "keywords": ["yii2","Jalali"],
+    "keywords": ["yii2","jalali"],
     "license": "GPL-2.0",
     "authors": [
         {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "persianyii\\Jalali\\": ""
+            "persianyii\\jalali\\": ""
         }
     }
 }
